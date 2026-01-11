@@ -13,7 +13,7 @@ Sunum içeriği:
 Python projesi:“Python ile Otomatik HTML Sayfası Oluşturucu”
 
 ##YOUTUBE LİNKİ
-
+https://youtu.be/6wByTutbXi4
 
 ##PROJE AÇIKLAMASI
 Bu projede python programlama kullanırak, kullanıcıdan alınan bilgiler dahilinde otomatik olarak bir html web sayfası oluşturulmuştur.
