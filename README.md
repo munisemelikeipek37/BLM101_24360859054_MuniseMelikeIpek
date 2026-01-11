@@ -31,7 +31,7 @@ Oluşturulan HTML sayfası, basit bir CSS ile renklendirilmiştir. Ve başlık,p
 1.Proje bilgisaysara indirilir.
 2.'src' klasörüne girilir.
 3.Terminal açılır.
-4.'python html_olustur.py' komutu çalıştırılır.
+4.'python html_olustur.py' komutu ile çalıştırılır.
 5.Konsoldan istenilen bilgiler girilir.
 6.Program çalışmasını tamamladığında 'index.html' dosyası oluşturulur.
 7.Oluşan 'index.html' dosyası tarayıcıda açılarak görüntülenir.
